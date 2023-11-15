@@ -1,0 +1,6 @@
+outputs/
+*.avm
+*.prover
+*.verifier
+artifacts
+node_modules
